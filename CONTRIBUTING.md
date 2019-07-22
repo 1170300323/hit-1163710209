@@ -13,3 +13,5 @@ Pull Request
 除非是提交复现问题的测试用例，请确保gradlew testSdk构建成功（需要连接Android设备）
 尽量原子化的提交，配有较为清晰的提交信息。
 我们会根据大家的PR再调整PR的要求的。
+
+I like hit very much
